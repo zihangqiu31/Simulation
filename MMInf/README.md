@@ -7,3 +7,5 @@ CarCounts.xls shows the number of arriving cars by hour are collected for one mo
 A stationary Poisson arrival process, as M/M/Inf
 
 A piece-wise constant, nonstationary Poisson arrival process, as M(t)/M/Inf
+
+The codes are inspired and modified from Dr. Song Eunhye from IE522 course materials
